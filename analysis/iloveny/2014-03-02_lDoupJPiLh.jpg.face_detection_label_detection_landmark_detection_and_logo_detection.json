@@ -1,0 +1,1 @@
+{"responses":[{"logoAnnotations":[{"description":"kitzsteinhorn","score":0.80014998,"boundingPoly":{"vertices":[{"x":2,"y":203},{"x":254,"y":203},{"x":254,"y":316},{"x":2,"y":316}]}}],"labelAnnotations":[{"mid":"/m/01bqvp","description":"Sky","score":0.73261112,"topicality":0.73261112},{"mid":"/m/011s0","description":"Advertising","score":0.53032637,"topicality":0.53032637}]}]}
